@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#root {
+  margin: 0 auto;
+  /* Remove or reduce padding */
+  padding: 0;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
