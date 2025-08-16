@@ -1,0 +1,254 @@
+[
+  {
+    "Category": "Grains",
+    "Food": "White Bread",
+    "Carbohydrates_per_100g": 50,
+    "Calories_per_100g": 265
+  },
+  {
+    "Category": "Grains",
+    "Food": "Whole Wheat Bread",
+    "Carbohydrates_per_100g": 43,
+    "Calories_per_100g": 247
+  },
+  {
+    "Category": "Grains",
+    "Food": "Cooked White Rice",
+    "Carbohydrates_per_100g": 28,
+    "Calories_per_100g": 130
+  },
+  {
+    "Category": "Grains",
+    "Food": "Cooked Brown Rice",
+    "Carbohydrates_per_100g": 23,
+    "Calories_per_100g": 111
+  },
+  {
+    "Category": "Grains",
+    "Food": "Cooked Pasta (White)",
+    "Carbohydrates_per_100g": 28,
+    "Calories_per_100g": 158
+  },
+  {
+    "Category": "Grains",
+    "Food": "Cooked Whole Wheat Pasta",
+    "Carbohydrates_per_100g": 25,
+    "Calories_per_100g": 124
+  },
+  {
+    "Category": "Grains",
+    "Food": "Dry Oats",
+    "Carbohydrates_per_100g": 66,
+    "Calories_per_100g": 389
+  },
+  {
+    "Category": "Starchy Vegetables",
+    "Food": "Cooked Potato",
+    "Carbohydrates_per_100g": 20,
+    "Calories_per_100g": 87
+  },
+  {
+    "Category": "Starchy Vegetables",
+    "Food": "Cooked Sweet Potato",
+    "Carbohydrates_per_100g": 20,
+    "Calories_per_100g": 86
+  },
+  {
+    "Category": "Starchy Vegetables",
+    "Food": "Cooked Corn",
+    "Carbohydrates_per_100g": 19,
+    "Calories_per_100g": 96
+  },
+  {
+    "Category": "Starchy Vegetables",
+    "Food": "Cooked Peas",
+    "Carbohydrates_per_100g": 12,
+    "Calories_per_100g": 84
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Cucumber",
+    "Carbohydrates_per_100g": 3.6,
+    "Calories_per_100g": 16
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Tomato",
+    "Carbohydrates_per_100g": 3.9,
+    "Calories_per_100g": 18
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Red Pepper",
+    "Carbohydrates_per_100g": 6.0,
+    "Calories_per_100g": 31
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Carrot",
+    "Carbohydrates_per_100g": 9.6,
+    "Calories_per_100g": 41
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Lettuce",
+    "Carbohydrates_per_100g": 2.9,
+    "Calories_per_100g": 15
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Broccoli",
+    "Carbohydrates_per_100g": 7,
+    "Calories_per_100g": 34
+  },
+  {
+    "Category": "Non-Starchy Vegetables",
+    "Food": "Fresh Onion",
+    "Carbohydrates_per_100g": 9,
+    "Calories_per_100g": 40
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Apple",
+    "Carbohydrates_per_100g": 14,
+    "Calories_per_100g": 52
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Banana",
+    "Carbohydrates_per_100g": 23,
+    "Calories_per_100g": 89
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Orange",
+    "Carbohydrates_per_100g": 12,
+    "Calories_per_100g": 47
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Grapes",
+    "Carbohydrates_per_100g": 16,
+    "Calories_per_100g": 69
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Strawberry",
+    "Carbohydrates_per_100g": 7.7,
+    "Calories_per_100g": 32
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Watermelon",
+    "Carbohydrates_per_100g": 7.5,
+    "Calories_per_100g": 30
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Melon",
+    "Carbohydrates_per_100g": 6,
+    "Calories_per_100g": 34
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Mango",
+    "Carbohydrates_per_100g": 15,
+    "Calories_per_100g": 60
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Pineapple",
+    "Carbohydrates_per_100g": 13,
+    "Calories_per_100g": 50
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Peach",
+    "Carbohydrates_per_100g": 10,
+    "Calories_per_100g": 39
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Pear",
+    "Carbohydrates_per_100g": 15,
+    "Calories_per_100g": 57
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Dates (Dried)",
+    "Carbohydrates_per_100g": 75,
+    "Calories_per_100g": 277
+  },
+  {
+    "Category": "Fruits",
+    "Food": "Avocado",
+    "Carbohydrates_per_100g": 9,
+    "Calories_per_100g": 160
+  },
+  {
+    "Category": "Dairy Products",
+    "Food": "Milk (Whole)",
+    "Carbohydrates_per_100g": 5,
+    "Calories_per_100g": 61
+  },
+  {
+    "Category": "Dairy Products",
+    "Food": "Natural Yogurt",
+    "Carbohydrates_per_100g": 5,
+    "Calories_per_100g": 59
+  },
+  {
+    "Category": "Dairy Products",
+    "Food": "Cottage Cheese",
+    "Carbohydrates_per_100g": 3,
+    "Calories_per_100g": 98
+  },
+  {
+    "Category": "Dairy Products",
+    "Food": "Yellow Cheese (Hard)",
+    "Carbohydrates_per_100g": 1,
+    "Calories_per_100g": 402
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Cooked Red Beans",
+    "Carbohydrates_per_100g": 23,
+    "Calories_per_100g": 127
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Cooked Chickpeas",
+    "Carbohydrates_per_100g": 30,
+    "Calories_per_100g": 164
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Cooked Lentils",
+    "Carbohydrates_per_100g": 20,
+    "Calories_per_100g": 116
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Peanuts",
+    "Carbohydrates_per_100g": 16,
+    "Calories_per_100g": 567
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Almonds",
+    "Carbohydrates_per_100g": 22,
+    "Calories_per_100g": 579
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Walnuts",
+    "Carbohydrates_per_100g": 14,
+    "Calories_per_100g": 654
+  },
+  {
+    "Category": "Legumes and Nuts",
+    "Food": "Cashews",
+    "Carbohydrates_per_100g": 30,
+    "Calories_per_100g": 553
+  }
+]
